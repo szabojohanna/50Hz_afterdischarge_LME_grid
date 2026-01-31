@@ -1,2 +1,2 @@
-# 50Hz_afterdischarge_LME_grid
-MATLAB code for analyzing laminar multi-microelectrode and subdural grid data of drug-resistant epileptic patients undergoing 50Hz direct cortical electric stimulation.
+# MATLAB code for analyzing laminar multi-microelectrode and subdural grid data of drug-resistant epileptic patients undergoing 50Hz direct cortical electric stimulation
+This repository contains MATLAB laminar multi-microelectrode and subdural grid recordings from the cortex of drug-resistand epileptic patients undergoing 50 Hz direct cortical electric stimulation as part of invasive presurgical monitoring. Analyses of single- and multi-unit activity. Analyses of cortical laminar local field potential gradient and current source density. 
